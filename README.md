@@ -1,3 +1,5 @@
+**This is an updated version of Twitter Image Downloader by @krish-konar, updated to work in Python 3.**
+
 # Twitter Image Downloader
 Downloads images/photos uploaded on twitter by a given user.
 
